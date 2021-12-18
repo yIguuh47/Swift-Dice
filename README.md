@@ -22,7 +22,7 @@ Foi feito um aplicativo de dados de Las Vegas. Onde Você pode fazer a rolagem d
 * Crie um aplicativo com comportamento e funcionalidade.
 * Create links between the Interface Builder files and code using IBActions and IBOutlets.
 * Get familiar with the Xcode code editor.
-* * Aprenda a usar comentários para anotar o código.
+* Aprenda a usar comentários para anotar o código.
 * Compreenda e use constantes e variáveis Swift. 
 * Compreenda e use tipos de coleção, como matrizes Swift.
 * Teste e depure seu aplicativo com o console Xcode.
