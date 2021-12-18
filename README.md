@@ -1,31 +1,32 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
 # Dicee
 
-## Our Goal
+## O que foi criado
 
-The objective of this tutorial is to introduce you to the core programming concepts that will form the foundation of most of the apps you’ll build in the future. This app will teach you a lot of important programming knowledge, while building a neat dice app.
-
-## What you will create
-
-We’re going to make a Las Vegas dice app. You can make the die roll at the press of a button or by shaking your phone. With this app in your pocket, you’ll be fully set up to settle any score on the go!
+Foi feito um aplicativo de dados de Las Vegas. Onde Você pode fazer a rolagem de dados com o pressionar de um botão ou agitando seu telefone. Com este aplicativo no seu bolso, você estará totalmente preparado para acertar qualquer pontuação em qualquer lugar!
 
 
-## What you will learn
+## O que Aprendi!
 
-* How to clone an existing Xcode project from GitHub.
-* Create an app with behaviour and functionality.
+* Como clonar um projeto Xcode existente do GitHub.
+* Crie um aplicativo com comportamento e funcionalidade.
 * Create links between the Interface Builder files and code using IBActions and IBOutlets.
 * Get familiar with the Xcode code editor.
-* * Learn to use comments to annotate code.
-* Understand and use Swift constants and variables.
-* Understand and use collection types such as Swift arrays.
-* Test and debug your app with the Xcode console.
-* Learn about randomisation and how to generate random numbers in Swift.
+* * Aprenda a usar comentários para anotar o código.
+* Compreenda e use constantes e variáveis Swift. 
+* Compreenda e use tipos de coleção, como matrizes Swift.
+* Teste e depure seu aplicativo com o console Xcode.
+* Aprenda sobre randomização e como gerar números aleatórios em Swift.
+
+Crie um aplicativo com comportamento e funcionalidade.
+
+Familiarize-se com o editor de código Xcode. 
+Aprenda a usar comentários para anotar o código.
+Compreenda e use constantes e variáveis Swift. 
+Compreenda e use tipos de coleção, como matrizes Swift.
+Teste e depure seu aplicativo com o console Xcode.
+Aprenda sobre randomização e como gerar números aleatórios em Swift.
+
+>Este é um projeto complementar ao Bootcamp de desenvolvimento de aplicativo completo da The App Brewery, confira o curso completo em [www.appbrewery.co](https://www.appbrewery.co/)
 
 
-
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
 
